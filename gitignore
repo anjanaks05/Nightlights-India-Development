@@ -1,0 +1,25 @@
+# Data files — do not commit
+data/*.csv
+data/*.dta
+data/*.DTA
+data/*.xlsx
+data/*.xls
+outputs/*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
