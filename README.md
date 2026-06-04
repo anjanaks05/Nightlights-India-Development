@@ -1,12 +1,9 @@
 # Can Satellite Data Predict Socioeconomic Development Across Indian Districts?
 
-**Author:** Anjana K S | MA Economics, Azim Premji University  
+**Author:** Anjana K S (MA Economics, Azim Premji University)
 **Tools:** Google Earth Engine · Python · scikit-learn · XGBoost · pandas · seaborn  
-**Data year:** 2021
 
----
-
-## What this is
+## What the project is about?
 
 I wanted to know whether satellite imagery alone — the kind that's freely available
 to anyone with a Google account — could tell us something meaningful about how
